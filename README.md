@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hello there!
 
-<!--
-**parradox26/parradox26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Shresthdeep Gupta — a tech lead, problem solver, and systems designer building reliable software for satellites, IoT, and smart cities.
 
-Here are some ideas to get you started:
+## 🚀 Current Focus
+- 🛰️ CubeSat system control software
+- 🌐 SaaS platforms for smart infrastructure
+- 🔐 Secure OTA firmware updates over MQTT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Beliefs
+- Any problem can be solved with enough clarity and grit.
+- Good design is born from understanding, not shortcuts.
+
+## 🛠️ Tech Stack
+`Node.js`, `Python`, `React`, `PostgreSQL`, `Kafka`, `AWS`, `Ubuntu`, `Orekit` and many more...
+
+## 🗂️ Projects
+- coming soon...
+
+## 📬 Connect
+- [LinkedIn](https://www.linkedin.com/in/shresthdeep-gupta-09b118170)
+- [Email](mailto:gupta.shresth33@gmail.com)
