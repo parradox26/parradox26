@@ -20,3 +20,5 @@ I'm Shresthdeep Gupta — a tech lead, problem solver, and systems designer buil
 ## 📬 Connect
 - [LinkedIn](https://www.linkedin.com/in/shresthdeep-gupta-09b118170)
 - [Email](mailto:gupta.shresth33@gmail.com)
+
+![Shresthdeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=parradox26&show_icons=true&theme=dark)
